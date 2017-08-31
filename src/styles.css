@@ -1,0 +1,12 @@
+.circle {
+    box-shadow: 
+        0 0 0 5px hsl(0, 0%, 90%),
+        0 0 0 7px hsl(0, 0%, 70%),
+        0 0 0 9px hsl(0, 0%, 60%);
+}
+
+.text {
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+}
